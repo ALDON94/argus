@@ -4,7 +4,7 @@
 # ARGUS Remote and Local Python Keylogger
  
 
-Keylogger With multiple Features Built For  **macos and Windows**
+Keylogger With multiple Features Built For  **macOS and Windows**
 
 # Main Features
 
@@ -16,24 +16,31 @@ Keylogger With multiple Features Built For  **macos and Windows**
 * Hide Window And Add To Startup on Windows
 
 
-# Installation Windows
+# Installation on Windows
 
 
-'pip3 install -r requirements.txt'
+*pip3 install -r requirements.txt*
 
 
 
-# Installation on macos
+# Installation on macOS
 
 
-'pip3 install -r requirements.txt'
+*pip3 install -r requirements.txt*
 
-'sudo osx-local.py' **the script needs to be run as root!**
+'sudo osx-local.py' **run as root!**
 
 
 ## Example
 
 [![Link] (https://streamable.com/mz6r2q)
+
+
+# Tested on
+
+*macOS Catalina 10.15.4*
+
+*Windows 10 1909*
 
 
 
