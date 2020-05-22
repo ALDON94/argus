@@ -4,7 +4,7 @@
 # ARGUS Remote and Local Python Keylogger
  
 
-with multiple Features Built For  **macos and Windows**
+Keylogger With multiple Features Built For  **macos and Windows**
 
 # Main Features
 
@@ -19,21 +19,21 @@ with multiple Features Built For  **macos and Windows**
 # Installation Windows
 
 
->>pip3 install -r requirements.txt
+'pip3 install -r requirements.txt'
 
 
 
 # Installation on macos
 
 
->>pip3 install -r requirements.txt
+'pip3 install -r requirements.txt'
 
->>sudo argus.py **the script needs to be run as root!**
+'sudo osx-local.py' **the script needs to be run as root!**
 
 
 ## Example
 
-[![ARGUS] (https://streamable.com/mz6r2q)
+[![Link] (https://streamable.com/mz6r2q)
 
 
 
