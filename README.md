@@ -30,7 +30,9 @@ pip3 install -r requirements.txt
 
 sudo osx-local.py **run it as root!**
 
+
 **enable input monitoring for whatever app your runing the script from**
+
 
 **Go to System Preferences >> Security & Privacy >> Privacy >> Unlock Changes >> input Monitoring && enable**
 
@@ -47,6 +49,7 @@ sudo osx-local.py **run it as root!**
 # Tested on
 
 **macOS Catalina 10.15.4**
+
 
 **Windows 10 1909**
 
