@@ -26,16 +26,16 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 # Installation on macOS
 
 
-*pip3 install -r requirements.txt*
+pip3 install -r requirements.txt
 
-*sudo osx-local.py* **run it as root!**
+sudo osx-local.py **run it as root!**
 
-*enable input monitoring for whatever app your runing the script from*
+**enable input monitoring for whatever app your runing the script from**
 
-**Go to System Preferences >> Security & Privacy >> Privacy >> Unlock Changes >> input Monitoring && enable **
+**Go to System Preferences >> Security & Privacy >> Privacy >> Unlock Changes >> input Monitoring && enable**
 
 
-** Do The Same Step For Screen Recording **
+**Do The Same Step For Screen Recording**
 
 
 
@@ -46,9 +46,9 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 # Tested on
 
-*macOS Catalina 10.15.4*
+**macOS Catalina 10.15.4**
 
-*Windows 10 1909*
+**Windows 10 1909**
 
 
 
