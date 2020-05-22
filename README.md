@@ -30,7 +30,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 # Installation on macOS
 
 
-pip3 install -r requirements.txt
+*pip3 install -r requirements.txt*
 
 sudo osx-local.py **run it as root!**
 
