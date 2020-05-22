@@ -33,7 +33,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 ## Example
 
-[Link] (https://streamable.com/mz6r2q)
+[Video](https://streamable.com/mz6r2q)
 
 
 # Tested on
