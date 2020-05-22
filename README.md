@@ -28,7 +28,15 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 *pip3 install -r requirements.txt*
 
-'sudo osx-local.py' **run as root!**
+*sudo osx-local.py* **run it as root!**
+
+*enable input monitoring for whatever app your runing the script from*
+
+**Go to System Preferences >> Security & Privacy >> Privacy >> Unlock Changes >> input Monitoring && enable **
+
+
+** Do The Same Step For Screen Recording **
+
 
 
 ## Example
