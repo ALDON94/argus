@@ -14,6 +14,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 * Monitor Keystrokes
 * Take Screenshots
+* Take WebcamShots
 * Dump Chrome History & Cookies
 * Monitor System info
 * Send Logs To Gmail
