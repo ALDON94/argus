@@ -19,6 +19,8 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 * Monitor System info
 * Send Logs To Gmail
 * Hide Window And Add To Startup on Windows
+* Get Public & Private IP Address
+* Easily customizable
 
 
 # Installation on Windows
@@ -26,6 +28,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 *pip3 install -r requirements.txt*
 
+**simple as that**
 
 
 # Installation on macOS
