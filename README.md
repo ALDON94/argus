@@ -32,30 +32,30 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 **if you want to convert the script to .EXE There's to ways you can go for it**
 
-# 1st using pyinstaller module 
+# 1st using the pyinstaller module 
 
-*pip3 install pyinstaller
+*pip3 install pyinstaller*
 
-*pyinstaller --onefile [filename] **this gonna take a while be patient
+*pyinstaller --onefile [filename]* **this gonna take a while be patient
 
-*when it's done it will crate a bunch of folders browse the folder [dist] an you should see .EXE file format based on the script
+*when it's done it will crate a bunch of folders browse the folder [dist] an you should see .EXE file format based on the script*
 
 
 # 2nd using NSIS App
 
 
-*Simply Download The NSIS App From the Official Website and install it
+*Simply Download The NSIS App From the Official Website and install it*
 
 
-**run the NSIS App As Administrator
+**run the NSIS App As Administrator**
 
 
-**click install based on ZIP file 
+**click install based on ZIP file**
 
 
-*compress the script you want to convert and open or drag it into the NSIS App
+*compress the script you want to convert and open or drag it into the NSIS App*
 
-*click generate and this will create .EXE file format based on the script
+*click generate and this will create .EXE file format based on the script*
 
 
 # Installation on macOS
