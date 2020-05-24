@@ -32,23 +32,24 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 **cd Argus/Windows/bin/Local**   *or*  **cd Argus/Windows/bin/Remote**
 
 
-*pip3 install -r requirements.txt*
+**pip3 install -r requirements.txt**
 
 
-###### run
+## run
 
 **python3 win-local.py**    *or*   **python3 win-remote.py** 
 
 
 
-### if you want to convert the script to .EXE format There's two ways you can go for it
+## if you want to convert the script to .EXE format There's two ways you can go for it
 
 
-# First option using pyinstaller 
+**First option using pyinstaller** 
 
 **pip3 install pyinstaller**
 
-**pyinstaller --onefile [filename]* **this gonna take a while be patient**
+
+**pyinstaller --onefile [filename]** **[this gonna take a while be patient]**
 
 **when it's done it will crate a bunch of folders browse the folder [dist] an you should see .EXE file format based on the script**
 
@@ -93,7 +94,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 **Do The Same Step For Screen Recording**
 
 
-**sudo python3 osx-local.py**  *or*   **sudo python3 osx-remote.py**  **run it as root!**
+**sudo python3 osx-local.py**  *or*   **sudo python3 osx-remote.py**  [**run it as root!**]
 
 
 ## Example
