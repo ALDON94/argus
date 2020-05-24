@@ -36,7 +36,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 *pip3 install pyinstaller*
 
-*pyinstaller --onefile [filename]* **this gonna take a while be patient
+*pyinstaller --onefile [filename]* **this gonna take a while be patient**
 
 *when it's done it will crate a bunch of folders browse the folder [dist] an you should see .EXE file format based on the script*
 
