@@ -29,7 +29,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 *pip3 install -r requirements.txt*
 
-'python3 win-local.py'
+> >python3 win-local.py
 
 
 **if you want to convert the script to .EXE There's two ways you can go for it**
