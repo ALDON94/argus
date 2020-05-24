@@ -30,7 +30,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 *pip3 install -r requirements.txt*
 
 
-**if you want to convert the script to .EXE There's to ways you can go for it**
+**if you want to convert the script to .EXE There's two ways you can go for it**
 
 # First option using the pyinstaller module 
 
