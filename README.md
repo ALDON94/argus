@@ -29,7 +29,33 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 *pip3 install -r requirements.txt*
 
-**simple as that**
+
+## if you want to convert the script to .EXE There's to ways you can go for it
+
+# 1st using pyinstaller module 
+
+*pip3 install pyinstaller
+
+*pyinstaller --onefile [filename] **this gonna take a while be patient
+
+*when it's done it will crate a bunch of folders browse the folder [dist] an you should see .EXE file format based on the script
+
+
+# 2nd using NSIS App
+
+
+*Simply Download The NSIS App From tHE Official Website and install it
+
+
+**run the NSIS App As Administrator
+
+
+**click install based on ZIP file 
+
+
+*compress the script you want to convert and open or drag it into the NSIS App
+
+*click generate and this will create .EXE file format based on the script
 
 
 # Installation on macOS
