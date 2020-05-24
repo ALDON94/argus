@@ -30,7 +30,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 *pip3 install -r requirements.txt*
 
 
-## if you want to convert the script to .EXE There's to ways you can go for it
+**if you want to convert the script to .EXE There's to ways you can go for it
 
 # 1st using pyinstaller module 
 
@@ -44,7 +44,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 # 2nd using NSIS App
 
 
-*Simply Download The NSIS App From tHE Official Website and install it
+*Simply Download The NSIS App From the Official Website and install it
 
 
 **run the NSIS App As Administrator
