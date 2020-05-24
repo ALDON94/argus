@@ -34,7 +34,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 **if you want to convert the script to .EXE There's two ways you can go for it**
 
-# First option using the pyinstaller module 
+# First option using pyinstaller 
 
 *pip3 install pyinstaller*
 
