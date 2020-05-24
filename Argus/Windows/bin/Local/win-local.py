@@ -139,8 +139,8 @@ class Monitor:
                 output_file.write("Hostname: %s \n\t Name: %s \n\t Value: %s \n\n" % (u''.join(row[0]).encode('utf-8').strip(), u''.join(row[1]).encode('utf-8').strip(),u''.join(row[2]).strip()))
             output_file.close()
 
-        except Exception as e:
-            print(e)
+        except Exception:
+            pass
 
 
 
