@@ -38,10 +38,6 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 
 
-
-
-# Run
-
 **python3 win-local.py**    or   **python3 win-remote.py** 
 
 
