@@ -29,6 +29,8 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 *pip3 install -r requirements.txt*
 
+*python3 win-local.py*
+
 
 **if you want to convert the script to .EXE There's two ways you can go for it**
 
@@ -63,7 +65,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 *pip3 install -r requirements.txt*
 
-sudo osx-local.py **run it as root!**
+sudo python3 osx-local.py **run it as root!**
 
 
 **enable input monitoring for whatever app your runing the script from**
