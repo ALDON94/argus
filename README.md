@@ -68,7 +68,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 sudo python3 osx-local.py **run it as root!**
 
 
-**enable input monitoring for whatever app your runing the script from**
+**enable input monitoring for whatever app you are runing the script from**
 
 
 **Go to System Preferences >> Security & Privacy >> Privacy >> Unlock Changes >> input Monitoring && enable**
