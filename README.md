@@ -30,7 +30,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 
 
-**cd Argus/Windows/bin/Local**   or  **cd Argus/Windows/bin/Remote**
+**cd Argus/Windows/bin/Local**   or   **cd Argus/Windows/bin/Remote**
 
 
 
