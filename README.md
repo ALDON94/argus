@@ -103,7 +103,7 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 
 
 
-**pip3 install -r requirements.txt**
+- pip3 install -r requirements.txt
 
 
 
