@@ -46,7 +46,9 @@ Keylogger With multiple Features Built For  **macOS and Windows**
 ---
 
 
-### want to convert the script to .EXE format? There's two ways you can go for it
+### want to convert the script to .EXE format? 
+
+*There's two ways you can go for it
 
 
 ---
