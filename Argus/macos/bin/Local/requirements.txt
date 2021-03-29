@@ -58,7 +58,7 @@ pydub==0.23.1
 pyfiglet==0.8.post1
 pygame==1.9.6
 pygeoip==0.3.2
-Pygments==2.6.1
+Pygments==2.7.4
 PyGObject==3.36.1
 pylint==2.4.4
 pynput==1.6.8
