@@ -9,7 +9,7 @@ colorama==0.4.3
 cycler==0.10.0
 dask==2.16.0
 decorator==4.4.2
-Django==3.0.7
+Django==3.0.12
 EasyProcess==0.3
 ecapture==0.1.8
 entrypoint2==0.2.1
