@@ -35,7 +35,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
-lxml==4.5.0
+lxml==4.6.3
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mccabe==0.6.1
