@@ -22,7 +22,7 @@ mss==5.1.0
 networkx==2.4
 numpy==1.18.4
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==8.2.0
 psutil==5.7.0
 pycodestyle==2.5.0
 pyfiglet==0.8.post1
