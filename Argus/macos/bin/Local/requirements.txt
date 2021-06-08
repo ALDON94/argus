@@ -48,7 +48,7 @@ opencv-python==4.2.0.34
 pathspec==0.8.0
 pexpect==4.8.0
 phonenumbers==8.12.3
-Pillow==7.1.2
+Pillow==8.2.0
 playsound==1.2.2
 psutil==5.7.0
 ptyprocess==0.6.0
