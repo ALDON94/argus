@@ -6,7 +6,7 @@ chardet==3.0.4
 cloudpickle==1.4.1
 colorama==0.4.3
 cycler==0.10.0
-dask==2.16.0
+dask==2021.10.0
 decorator==4.4.2
 Django==3.0.7
 EasyProcess==0.3
