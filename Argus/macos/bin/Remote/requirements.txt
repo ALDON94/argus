@@ -201,7 +201,7 @@ sqlparse==0.3.1
 termcolor==1.1.0
 toolz==0.10.0
 typed-ast==1.4.1
-urllib3==1.25.9
+urllib3==1.26.17
 Wave==0.0.2
 Werkzeug==1.0.1
 wget==3.2
